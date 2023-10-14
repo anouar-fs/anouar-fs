@@ -1,4 +1,4 @@
-[MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)]
 <h1 align="center">Hi 👋, I'm Anouar Asagh</h1>
 <h3 align="center">A passionate Software Engineering student from morroco</h3>
 <img align="right" alt='Coding' width='400' src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
